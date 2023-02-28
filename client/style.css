@@ -89,7 +89,7 @@ body {
 .message {
   flex: 1;
 
-  color: #f00909;
+  color: #9d0958;
   font-size: 20px;
 
   max-width: 100%;
@@ -117,7 +117,7 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #40414F;
+  background: #ffffff;
 
   display: flex;
   flex-direction: row;
