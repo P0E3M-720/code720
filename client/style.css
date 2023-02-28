@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #0e1684;
 }
 
 .chat {
@@ -69,7 +69,7 @@ body {
   height: 36px;
   border-radius: 5px;
 
-  background: #5436DA;
+  background: #ecebf2;
 
   display: flex;
   justify-content: center;
@@ -89,7 +89,7 @@ body {
 .message {
   flex: 1;
 
-  color: #dcdcdc;
+  color: #f00909;
   font-size: 20px;
 
   max-width: 100%;
